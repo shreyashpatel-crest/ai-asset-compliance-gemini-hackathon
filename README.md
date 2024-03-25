@@ -32,4 +32,4 @@ pip install -r requirements.txt
 ```
 streamlit run home.py
 ```
-### Note: Refresh the page after performing scanning assets
+#### Note: Refresh the page after performing scanning assets
