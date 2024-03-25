@@ -1,4 +1,4 @@
-## App Demo URL : https://ai-asset-compliance-2xzwfahizkmuah9gaolugh.streamlit.app/dashboard
+## App Demo URL : https://ai-asset-compliance-gemini-hackathon-juni6zci2qjtfshntgppst.streamlit.app/dashboard
 
 # App Setup
 
