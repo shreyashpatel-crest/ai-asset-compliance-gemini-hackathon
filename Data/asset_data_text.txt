@@ -1,0 +1,184 @@
+**CLW749-2316**
+- **Last Login User:** Anthony.Rodriguez
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Chrome - Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant
+
+**CLW825-2316**
+- **Last Login User:** Diane.Powers
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Visual Studio Code - Compliant
+    - Docker Desktop - Compliant
+    - Chrome - Compliant
+
+**CLW1064-1850**
+- **Last Login User:** Shawn.Cook
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Compliant
+    - Docker Desktop - Compliant
+    - Chrome - Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant
+
+**CLW124-1046**
+- **Last Login User:** Amber.Smith
+- **Kernel Version:** 10.0.22631.3155
+- **Windows Compliant:** False
+- **Application Installed:**
+    - Zoom Client - Compliant
+    - Visual Studio Code - Compliant
+    - Chrome - Compliant
+    - LibreOffice - Compliant
+
+**CLW680-2315**
+- **Last Login User:** Joanna.Shelton
+- **Kernel Version:** 10.0.22631.3007
+- **Windows Compliant:** False
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Compliant
+    - Chrome - Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant
+
+**CLW709-1175**
+- **Last Login User:** Laura.Lewis
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Chrome - Compliant
+    - LibreOffice - Not Compliant
+
+**CLW898-1061**
+- **Last Login User:** Tammy.Washington
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - VMware Workstation - Not Compliant
+    - Chrome - Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant
+
+**CLW707-1176**
+- **Last Login User:** Kathleen.Hernandez
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Compliant
+    - Postman - Not Compliant
+    - VMware Workstation - Not Compliant
+    - Chrome - Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant
+
+**CLW873-1177**
+- **Last Login User:** Peter.Hunter
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Compliant
+    - Visual Studio Code - Not Compliant
+    - VMware Workstation - Not Compliant
+    - Chrome - Compliant
+    - LibreOffice - Not Compliant
+
+**CLW266-1015**
+- **Last Login User:** Douglas.Jones
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Chrome - Compliant
+    - LibreOffice - Not Compliant
+
+**CLW971-1986**
+- **Last Login User:** Allison.Bell
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Chrome - Compliant
+    - Adobe Acrobat (64-bit) - Not Compliant
+    - Firefox - Not Compliant
+
+**CLW588-1174**
+- **Last Login User:** Joseph.Gates
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Postman - Not Compliant
+    - Chrome - Compliant
+    - LibreOffice - Not Compliant
+
+**CLW913-2356**
+- **Last Login User:** Jamie.Morris
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Visual Studio Code - Compliant
+    - Chrome - Compliant
+
+**CLW736-1849**
+- **Last Login User:** Regina.Perry
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - VMware Workstation - Not Compliant
+    - Chrome - Compliant
+    - Firefox - Compliant
+    - LibreOffice - Not Compliant
+
+**CLW937-1926**
+- **Last Login User:** Bryan.Mann
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Visual Studio Code - Not Compliant
+    - Chrome - Compliant
+    - LibreOffice - Not Compliant
+
+**CLW1060-1982**
+- **Last Login User:** Gregory.Massey
+- **Kernel Version:** 10.0.22631.3296
+- **Windows Compliant:** True
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Chrome - Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant
+
+**CLW702-59**
+- **Last Login User:** Tiffany.Simmons
+- **Kernel Version:** 10.0.22621.2428
+- **Windows Compliant:** False
+- **Application Installed:**
+    - Zoom Client - Not Compliant
+    - Visual Studio Code - Not Compliant
+    - Postman - Not Compliant
+    - VMware Workstation - Not Compliant
+    - Chrome - Not Compliant
+    - Adobe Acrobat (64-bit) - Not Compliant
+    - Firefox - Not Compliant
+    - LibreOffice - Not Compliant

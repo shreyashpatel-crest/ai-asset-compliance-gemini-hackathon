@@ -1,0 +1,1006 @@
+{
+    "CLW749-2316": {
+        "device_id": "da832d7d-f02d-454f-b1ef-3e4a3c4ab22d",
+        "cid": "2fa4e143-3189-47d6-ac5e-bb6e0d597bd9",
+        "hostname": "CLW749-2316",
+        "last_login_user": "Anthony.Rodriguez",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-22T18:02:34.504Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "61.171.92.71",
+        "mac_address": "48:a4:95:4f:3b:26",
+        "first_seen": "2023-11-28T21:07:09Z",
+        "last_seen": "2024-03-22T12:36:32Z",
+        "local_ip": "214.89.99.123",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,7,31859",
+                "last_used_timestamp": "2024-03-21T11:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.84.2",
+                "last_used_timestamp": "2024-03-11T06:00:00Z",
+                "last_updated_timestamp": "2023-11-28T21:09:44Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-22T12:00:00Z",
+                "last_updated_timestamp": "2024-03-21T14:06:51Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "123.0.1",
+                "last_used_timestamp": "2024-03-22T07:00:00Z",
+                "last_updated_timestamp": "2024-03-13T13:28:30Z",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.6.3.2",
+                "last_used_timestamp": "2024-03-21T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW825-2316": {
+        "device_id": "c842700c-fdae-4222-8aa5-48a79b33759d",
+        "cid": "c8239952-7d08-4258-ac31-ac68d34ac15d",
+        "hostname": "CLW825-2316",
+        "last_login_user": "Diane.Powers",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-23T20:29:41.480Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "57.117.84.55",
+        "mac_address": "50:e5:ca:f9:42:77",
+        "first_seen": "2024-03-22T11:43:12Z",
+        "last_seen": "2024-03-23T15:37:24Z",
+        "local_ip": "128.235.189.250",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.87.2",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-22T11:45:58Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Docker Desktop",
+                "vendor": "GitHub, Inc.",
+                "version": "4.28.0.7",
+                "last_used_timestamp": "2024-03-23T15:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T14:00:00Z",
+                "last_updated_timestamp": "2024-03-22T11:45:58Z",
+                "is_compliant": true
+            }
+        ],
+        "asset_compliant": true,
+        "windows_compliant": true
+    },
+    "CLW1064-1850": {
+        "device_id": "16a4a543-e564-427f-bf8c-0085d7725e91",
+        "cid": "e7195457-382a-4ca1-b345-4a8b1b365b46",
+        "hostname": "CLW1064-1850",
+        "last_login_user": "Shawn.Cook",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-23T19:58:12.969Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "202.4.14.88",
+        "mac_address": "6a:89:3b:af:c1:81",
+        "first_seen": "2023-08-28T07:58:36Z",
+        "last_seen": "2024-03-23T15:28:45Z",
+        "local_ip": "28.93.178.48",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,7,31859",
+                "last_used_timestamp": "2024-03-12T09:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.87.2",
+                "last_used_timestamp": "2024-03-23T14:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            },
+            {
+                "name": "Docker Desktop",
+                "vendor": "GitHub, Inc.",
+                "version": "4.28.0.7",
+                "last_used_timestamp": "2024-03-23T14:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T15:00:00Z",
+                "last_updated_timestamp": "2024-03-20T14:38:11Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "18.05",
+                "last_used_timestamp": "2024-03-11T12:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.6.2.1",
+                "last_used_timestamp": "2023-12-22T08:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW124-1046": {
+        "device_id": "18926c6f-ac22-434e-affc-abfdbf2e0a10",
+        "cid": "edb898e6-97b4-4d3b-a699-5c1a4e1e9fda",
+        "hostname": "CLW124-1046",
+        "last_login_user": "Amber.Smith",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3155",
+        "agent_local_time": "2024-03-19T18:09:30.941Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "52.167.223.187",
+        "mac_address": "c6:f8:62:d6:85:bc",
+        "first_seen": "2024-03-12T06:57:28Z",
+        "last_seen": "2024-03-23T03:32:28Z",
+        "local_ip": "86.116.71.13",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,11,34827",
+                "last_used_timestamp": "2024-03-21T11:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.87.1",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-12T07:00:17Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T03:00:00Z",
+                "last_updated_timestamp": "2024-03-21T13:02:47Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "24.2.1.2",
+                "last_used_timestamp": "2024-03-21T14:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            }
+        ],
+        "asset_compliant": true,
+        "windows_compliant": false
+    },
+    "CLW680-2315": {
+        "device_id": "ce05b215-1dcb-48d1-9167-1873818f32f9",
+        "cid": "d2d55a0b-873c-4ee2-9006-ba51d95015b9",
+        "hostname": "CLW680-2315",
+        "last_login_user": "Joanna.Shelton",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3007",
+        "agent_local_time": "2024-03-19T18:03:29.923Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "53.9.158.143",
+        "mac_address": "e4:b4:f9:f3:88:0a",
+        "first_seen": "2023-12-29T10:59:13Z",
+        "last_seen": "2024-03-23T15:40:10Z",
+        "local_ip": "138.22.166.181",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,7,31859",
+                "last_used_timestamp": "2024-03-12T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.87.0",
+                "last_used_timestamp": "2024-03-12T04:00:00Z",
+                "last_updated_timestamp": "2024-03-07T10:07:58Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T08:00:00Z",
+                "last_updated_timestamp": "2024-03-21T14:52:50Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "121.0",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2023-12-29T11:01:11Z",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.6.4.1",
+                "last_used_timestamp": "2024-02-22T13:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": false
+    },
+    "CLW709-1175": {
+        "device_id": "20cb47d6-635b-4771-9ec4-f3a7ecf7af50",
+        "cid": "65ac5068-fd2c-4375-baaf-256ecf6c2bb6",
+        "hostname": "CLW709-1175",
+        "last_login_user": "Laura.Lewis",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-22T07:32:37.076Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "95.154.83.187",
+        "mac_address": "c6:5a:6f:18:11:4e",
+        "first_seen": "2023-04-07T09:36:36Z",
+        "last_seen": "2024-03-22T09:43:40Z",
+        "local_ip": "107.211.141.107",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,10,33775",
+                "last_used_timestamp": "2024-02-29T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.85.2",
+                "last_used_timestamp": "2024-01-30T02:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-22T02:15:03Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.5.4.2",
+                "last_used_timestamp": "2023-09-01T10:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW898-1061": {
+        "device_id": "5eb6fc9b-a89f-41c9-8fa5-53e0424c63b7",
+        "cid": "923275bb-5373-42df-96b5-07d2b815c57c",
+        "hostname": "CLW898-1061",
+        "last_login_user": "Tammy.Washington",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-23T19:07:33.604Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "22.30.215.152",
+        "mac_address": "3a:31:24:b4:95:8d",
+        "first_seen": "2023-09-25T12:11:08Z",
+        "last_seen": "2024-03-23T13:44:36Z",
+        "local_ip": "57.153.36.63",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,7,31859",
+                "last_used_timestamp": "2024-03-23T03:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.82.2",
+                "last_used_timestamp": "2024-01-13T11:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "VMware Workstation",
+                "vendor": "VMware, Inc.",
+                "version": "e.x.p build-16488452",
+                "last_used_timestamp": "2023-11-29T09:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T13:00:00Z",
+                "last_updated_timestamp": "2024-03-22T04:49:22Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "117.0.1",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2023-09-25T12:14:56Z",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.6.1.2",
+                "last_used_timestamp": "2024-01-17T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW707-1176": {
+        "device_id": "087c10d9-02a0-4787-b1a1-7b8cc3eeeb05",
+        "cid": "6f3bb02a-66f1-4f5a-8089-fe230e51a968",
+        "hostname": "CLW707-1176",
+        "last_login_user": "Kathleen.Hernandez",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-18T17:31:38.620Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "206.72.166.142",
+        "mac_address": "b2:22:17:6e:60:e4",
+        "first_seen": "2023-04-06T16:42:56Z",
+        "last_seen": "2024-03-23T13:26:00Z",
+        "local_ip": "109.229.219.128",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,16,2,22807",
+                "last_used_timestamp": "2023-12-27T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.87.2",
+                "last_used_timestamp": "2024-03-19T08:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            },
+            {
+                "name": "Postman",
+                "vendor": "Postman",
+                "version": "10.9.0",
+                "last_used_timestamp": "2023-10-06T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "VMware Workstation",
+                "vendor": "VMware, Inc.",
+                "version": "e.x.p build-21098327",
+                "last_used_timestamp": "2024-02-05T09:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T09:00:00Z",
+                "last_updated_timestamp": "2024-03-21T13:39:11Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "18.05",
+                "last_used_timestamp": "2023-10-11T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.3.5.2",
+                "last_used_timestamp": "2023-06-01T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW873-1177": {
+        "device_id": "c97afe96-949a-4dbd-bb01-d90130779755",
+        "cid": "b0555919-72ee-4238-8e97-5519df574d78",
+        "hostname": "CLW873-1177",
+        "last_login_user": "Peter.Hunter",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-19T10:15:35.109Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "142.217.151.33",
+        "mac_address": "cc:c8:c1:84:1d:d8",
+        "first_seen": "2023-04-11T13:33:55Z",
+        "last_seen": "2024-03-22T11:20:50Z",
+        "local_ip": "38.40.111.4",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,11,34827",
+                "last_used_timestamp": "2024-03-13T10:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": true
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.79.2",
+                "last_used_timestamp": "2024-02-28T09:00:00Z",
+                "last_updated_timestamp": "2023-06-28T09:20:36Z",
+                "is_compliant": false
+            },
+            {
+                "name": "VMware Workstation",
+                "vendor": "VMware, Inc.",
+                "version": "e.x.p build-21098327",
+                "last_used_timestamp": "2023-09-14T08:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-22T11:00:00Z",
+                "last_updated_timestamp": "2024-03-21T13:25:05Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.4.3.2",
+                "last_used_timestamp": "2023-10-20T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW266-1015": {
+        "device_id": "9a41d1a7-025f-4df9-9d22-8ac33c551d39",
+        "cid": "ab4548aa-b431-4aca-b880-7747ad932cb9",
+        "hostname": "CLW266-1015",
+        "last_login_user": "Douglas.Jones",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-23T16:46:07.803Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "143.220.245.48",
+        "mac_address": "e2:c0:77:72:d8:55",
+        "first_seen": "2023-04-24T09:36:18Z",
+        "last_seen": "2024-03-23T12:41:23Z",
+        "local_ip": "149.249.114.46",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,7,31859",
+                "last_used_timestamp": "2024-03-07T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.62.3",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2023-04-24T18:16:12Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-23T11:00:00Z",
+                "last_updated_timestamp": "2024-03-21T14:17:45Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.2.3.2",
+                "last_used_timestamp": "2024-01-09T07:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW971-1986": {
+        "device_id": "0e16f985-b611-44d5-8875-5f0dea4b966b",
+        "cid": "fd3c8d8e-3dff-4abc-868f-bad62d71bb10",
+        "hostname": "CLW971-1986",
+        "last_login_user": "Allison.Bell",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-22T10:12:06.379Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "26.245.91.40",
+        "mac_address": "e0:28:ae:21:06:50",
+        "first_seen": "2023-12-14T23:14:05Z",
+        "last_seen": "2024-03-22T12:32:32Z",
+        "local_ip": "98.228.172.108",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,17,7,31859",
+                "last_used_timestamp": "2024-03-20T09:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.85.1",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2023-12-14T23:16:40Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-22T12:00:00Z",
+                "last_updated_timestamp": "2024-03-21T12:54:40Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Adobe Acrobat (64-bit)",
+                "vendor": "Adobe",
+                "version": "24.001.20604",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-15T08:51:23Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "120.0.1",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2023-12-14T23:16:40Z",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW588-1174": {
+        "device_id": "9d700c36-86e5-441f-885b-b1c92e87c90d",
+        "cid": "c3283344-c432-423b-9daa-d77a7722fe1a",
+        "hostname": "CLW588-1174",
+        "last_login_user": "Joseph.Gates",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-19T10:20:42.503Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "159.200.133.87",
+        "mac_address": "ce:57:a9:e4:6d:c5",
+        "first_seen": "2023-04-06T09:45:13Z",
+        "last_seen": "2024-03-22T11:23:26Z",
+        "local_ip": "32.27.111.41",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,15,5,19404",
+                "last_used_timestamp": "2023-08-01T13:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.83.1",
+                "last_used_timestamp": "2024-01-17T09:00:00Z",
+                "last_updated_timestamp": "2023-10-27T11:10:47Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Postman",
+                "vendor": "Postman",
+                "version": "10.17.4",
+                "last_used_timestamp": "2023-09-13T04:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-22T05:45:09Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.3.2.2",
+                "last_used_timestamp": "2024-01-12T10:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW913-2356": {
+        "device_id": "dee5d2e3-c750-43e5-809b-ad7cc5ca36c7",
+        "cid": "87341d60-1c38-48c9-93eb-71334b9d6d29",
+        "hostname": "CLW913-2356",
+        "last_login_user": "Jamie.Morris",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-22T14:33:15.605Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "75.168.105.52",
+        "mac_address": "26:64:dd:b5:dc:13",
+        "first_seen": "2024-03-15T05:32:22Z",
+        "last_seen": "2024-03-22T12:20:18Z",
+        "local_ip": "5.54.100.158",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.87.1",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-15T05:34:58Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-22T12:00:00Z",
+                "last_updated_timestamp": "2024-03-21T13:28:03Z",
+                "is_compliant": true
+            }
+        ],
+        "asset_compliant": true,
+        "windows_compliant": true
+    },
+    "CLW736-1849": {
+        "device_id": "064e929a-9327-490c-a7fd-a1b70effddd7",
+        "cid": "ee24e146-56c9-4313-84ba-39ea3f62b8f1",
+        "hostname": "CLW736-1849",
+        "last_login_user": "Regina.Perry",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-18T09:48:01.290Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "16.166.254.154",
+        "mac_address": "70:62:f9:59:33:f1",
+        "first_seen": "2023-04-06T07:32:22Z",
+        "last_seen": "2024-03-22T13:23:08Z",
+        "local_ip": "122.108.181.224",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,16,10,26186",
+                "last_used_timestamp": "2024-03-14T14:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.86.0",
+                "last_used_timestamp": "2024-03-01T04:00:00Z",
+                "last_updated_timestamp": "2024-02-06T09:53:44Z",
+                "is_compliant": false
+            },
+            {
+                "name": "VMware Workstation",
+                "vendor": "VMware, Inc.",
+                "version": "17.0.0 build-20800274",
+                "last_used_timestamp": "2024-03-14T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-22T13:00:00Z",
+                "last_updated_timestamp": "2024-03-22T04:39:17Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "124.0",
+                "last_used_timestamp": "2024-03-22T13:00:00Z",
+                "last_updated_timestamp": "2024-03-21T09:02:05Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.4.2.3",
+                "last_used_timestamp": "2024-01-09T07:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW937-1926": {
+        "device_id": "e95362b4-7e2b-460f-93cf-f5e64217ce26",
+        "cid": "2fce6aa6-70b4-44d5-b583-6091684586dc",
+        "hostname": "CLW937-1926",
+        "last_login_user": "Bryan.Mann",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-18T10:45:30.908Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "99.186.107.41",
+        "mac_address": "68:43:e0:78:56:33",
+        "first_seen": "2024-01-31T10:38:08Z",
+        "last_seen": "2024-03-22T11:20:27Z",
+        "local_ip": "71.102.94.162",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.85.2",
+                "last_used_timestamp": "2024-02-06T12:00:00Z",
+                "last_updated_timestamp": "2024-01-31T10:40:43Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "2024-03-22T11:00:00Z",
+                "last_updated_timestamp": "2024-03-21T13:21:44Z",
+                "is_compliant": true
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.6.4.1",
+                "last_used_timestamp": "2024-03-13T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW1060-1982": {
+        "device_id": "cdaa81e0-3329-4868-a91d-952e9f5eaaa2",
+        "cid": "bace9ed5-85cf-45d1-81a7-e8b3fb66c7cf",
+        "hostname": "CLW1060-1982",
+        "last_login_user": "Gregory.Massey",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22631.3296",
+        "agent_local_time": "2024-03-20T13:38:06.159Z",
+        "agent_version": "7.12.18207.0",
+        "external_ip": "54.249.246.122",
+        "mac_address": "8e:5f:19:16:ed:fc",
+        "first_seen": "2023-09-01T09:11:59Z",
+        "last_seen": "2024-03-22T13:08:38Z",
+        "local_ip": "221.140.194.57",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,15,11,21032",
+                "last_used_timestamp": "2023-10-30T13:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.85.2",
+                "last_used_timestamp": "2024-03-15T06:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "123.0.6312.59",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-03-22T05:05:46Z",
+                "is_compliant": true
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "18.05",
+                "last_used_timestamp": "2023-09-05T05:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.6.0.3",
+                "last_used_timestamp": "2024-03-19T08:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": true
+    },
+    "CLW702-59": {
+        "device_id": "d55c3301-e138-4149-8ec2-4d3c024af5f0",
+        "cid": "9ff7751f-7ae6-4407-bd59-53593f258d04",
+        "hostname": "CLW702-59",
+        "last_login_user": "Tiffany.Simmons",
+        "os_version": "Windows 11",
+        "kernel_version": "10.0.22621.2428",
+        "agent_local_time": "2024-02-20T17:25:22.468Z",
+        "agent_version": "7.10.18011.0",
+        "external_ip": "44.33.26.154",
+        "mac_address": "9c:b1:b8:cc:bb:4d",
+        "first_seen": "2023-04-06T06:30:15Z",
+        "last_seen": "2024-02-20T11:56:53Z",
+        "local_ip": "63.239.125.195",
+        "major_version": "10",
+        "application_installed": [
+            {
+                "name": "Zoom Client",
+                "vendor": "Zoom",
+                "version": "5,15,5,19404",
+                "last_used_timestamp": "2023-11-02T13:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Visual Studio Code",
+                "vendor": "Microsoft",
+                "version": "1.73.0",
+                "last_used_timestamp": "2023-08-04T17:00:00Z",
+                "last_updated_timestamp": "2023-04-06T06:32:42Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Postman",
+                "vendor": "Postman",
+                "version": "10.5.2",
+                "last_used_timestamp": "2023-08-04T12:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "VMware Workstation",
+                "vendor": "VMware, Inc.",
+                "version": "e.x.p build-20417196",
+                "last_used_timestamp": "2023-06-09T11:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            },
+            {
+                "name": "Chrome",
+                "vendor": "Google",
+                "version": "120.0.6099.217",
+                "last_used_timestamp": "2024-02-20T11:00:00Z",
+                "last_updated_timestamp": "2024-01-11T13:18:26Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Adobe Acrobat (64-bit)",
+                "vendor": "Adobe",
+                "version": "23.008.20458",
+                "last_used_timestamp": "",
+                "last_updated_timestamp": "2024-01-11T13:02:18Z",
+                "is_compliant": false
+            },
+            {
+                "name": "Firefox",
+                "vendor": "Mozilla",
+                "version": "120.0.1",
+                "last_used_timestamp": "2024-02-20T10:00:00Z",
+                "last_updated_timestamp": "2024-01-11T13:02:18Z",
+                "is_compliant": false
+            },
+            {
+                "name": "LibreOffice",
+                "vendor": "The Document Foundation",
+                "version": "7.2.3.2",
+                "last_used_timestamp": "2023-10-04T10:00:00Z",
+                "last_updated_timestamp": "",
+                "is_compliant": false
+            }
+        ],
+        "asset_compliant": false,
+        "windows_compliant": false
+    }
+}
